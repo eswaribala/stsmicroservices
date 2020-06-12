@@ -1,0 +1,20 @@
+2020-06-13 04:08:29,212 INFO com.virtusa.customerapidemo.CustomerapidemoApplication [main] Starting CustomerapidemoApplication on DESKTOP-55AGI0I with PID 4664 (F:\virtusausjune2020\customerapidemo\target\classes started by Balasubramaniam in F:\virtusausjune2020\customerapidemo)
+2020-06-13 04:08:29,223 DEBUG com.virtusa.customerapidemo.CustomerapidemoApplication [main] Running with Spring Boot v2.3.0.RELEASE, Spring v5.2.6.RELEASE
+2020-06-13 04:08:29,223 INFO com.virtusa.customerapidemo.CustomerapidemoApplication [main] The following profiles are active: development
+2020-06-13 04:08:32,433 INFO com.virtusa.customerapidemo.configurations.DbConfiguration [main] Development
+2020-06-13 04:08:35,723 INFO com.virtusa.customerapidemo.CustomerapidemoApplication [main] Started CustomerapidemoApplication in 6.779 seconds (JVM running for 7.265)
+2020-06-13 04:09:33,375 INFO com.virtusa.customerapidemo.CustomerapidemoApplication [main] Starting CustomerapidemoApplication on DESKTOP-55AGI0I with PID 12316 (F:\virtusausjune2020\customerapidemo\target\classes started by Balasubramaniam in F:\virtusausjune2020\customerapidemo)
+2020-06-13 04:09:33,376 DEBUG com.virtusa.customerapidemo.CustomerapidemoApplication [main] Running with Spring Boot v2.3.0.RELEASE, Spring v5.2.6.RELEASE
+2020-06-13 04:09:33,377 INFO com.virtusa.customerapidemo.CustomerapidemoApplication [main] The following profiles are active: development
+2020-06-13 04:09:36,605 INFO com.virtusa.customerapidemo.configurations.DbConfiguration [main] Development
+2020-06-13 04:09:39,949 INFO com.virtusa.customerapidemo.CustomerapidemoApplication [main] Started CustomerapidemoApplication in 6.837 seconds (JVM running for 7.336)
+2020-06-13 04:10:34,360 INFO com.virtusa.customerapidemo.CustomerapidemoApplication [main] Starting CustomerapidemoApplication on DESKTOP-55AGI0I with PID 10116 (F:\virtusausjune2020\customerapidemo\target\classes started by Balasubramaniam in F:\virtusausjune2020\customerapidemo)
+2020-06-13 04:10:34,366 DEBUG com.virtusa.customerapidemo.CustomerapidemoApplication [main] Running with Spring Boot v2.3.0.RELEASE, Spring v5.2.6.RELEASE
+2020-06-13 04:10:34,366 INFO com.virtusa.customerapidemo.CustomerapidemoApplication [main] The following profiles are active: development
+2020-06-13 04:10:37,445 INFO com.virtusa.customerapidemo.configurations.DbConfiguration [main] Development
+2020-06-13 04:10:40,925 INFO com.virtusa.customerapidemo.CustomerapidemoApplication [main] Started CustomerapidemoApplication in 6.833 seconds (JVM running for 7.326)
+2020-06-13 04:12:03,078 INFO com.virtusa.customerapidemo.CustomerapidemoApplication [main] Starting CustomerapidemoApplication on DESKTOP-55AGI0I with PID 14552 (F:\virtusausjune2020\customerapidemo\target\classes started by Balasubramaniam in F:\virtusausjune2020\customerapidemo)
+2020-06-13 04:12:03,084 DEBUG com.virtusa.customerapidemo.CustomerapidemoApplication [main] Running with Spring Boot v2.3.0.RELEASE, Spring v5.2.6.RELEASE
+2020-06-13 04:12:03,084 INFO com.virtusa.customerapidemo.CustomerapidemoApplication [main] The following profiles are active: development
+2020-06-13 04:12:06,566 INFO com.virtusa.customerapidemo.configurations.DbConfiguration [main] Development
+2020-06-13 04:12:10,068 INFO com.virtusa.customerapidemo.CustomerapidemoApplication [main] Started CustomerapidemoApplication in 7.254 seconds (JVM running for 7.814)
